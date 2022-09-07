@@ -22,3 +22,12 @@ Airport near to National Museum New Delhi is Indira Gandhi International Airport
     4. Go straight and now we have reached National Museum.
 4. Destination is reached.
 
+Unordered list
+* Places to visit near National Museum New Delhi
+    * India Gate
+    * Rashtrapati Bhavan
+    * Jantar Mantar
+    * Jama Masjid
+    * Taj Mahal
+* The above mentioned are some of the places to visit.
+
