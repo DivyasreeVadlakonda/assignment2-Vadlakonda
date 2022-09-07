@@ -8,5 +8,5 @@ I have completed my undergraduation at KITSW in 2020. I like to spend time with 
 <p>
 
 ### Added my image to repo 
-https://github.com/DivyasreeVadlakonda/assignment2-Vadlakonda
+https://github.com/DivyasreeVadlakonda
 
