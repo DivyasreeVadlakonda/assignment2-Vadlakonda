@@ -34,3 +34,20 @@ Unordered list
 ### ABOUTME.md link
 (https://github.com/DivyasreeVadlakonda/assignment2-Vadlakonda/blob/main/AboutME.md)
 
+
+***
+# Table of four cities #
+
+<p>
+
+The below table consists of 4 beautiful cities to visit in India.These cities are best know for their infrastructure and also best places in India.
+
+<p>
+
+| Name of the city| Important places to visit | Time to spemd |
+| --------------- | ------------------------- | ----------:   |
+| Delhi           | Taj Mahal                 | 4 days        |
+| Mumbai          | Gateway of India          | 4 days        |
+| Tamilnadu       | Madurai                   | 3 days        |
+| Hyderabad       | Charminar                 | 2 days        |
+
