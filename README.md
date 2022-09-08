@@ -53,6 +53,6 @@ The below table consists of 4 beautiful cities to visit in India.These cities ar
 
 ***
 # Quotes #
->"All we have to decide is what to do with the time that is given us" by *J.R.R.Tolkein*
->"It matters not what someone is born,but what they grow to be" by *J.K.Rowling*
+>"All we have to decide is what to do with the time that is given us" by *J.R.R.Tolkein*.<br>
+>"It matters not what someone is born,but what they grow to be" by *J.K.Rowling*.
 
