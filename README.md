@@ -64,7 +64,10 @@ The below table consists of 4 beautiful cities to visit in India.These cities ar
 (https://stackoverflow.com/questions/54284854/responsive-web-design-by-meta-tag)
 
 ### Code snippet
-<meta name="viewport" content="width=device-width,initial-scale=1">
+
+```
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+```
 
 ### Quick link for snippet source
 (https://css-tricks.com/snippets/html/responsive-meta-tag/)
