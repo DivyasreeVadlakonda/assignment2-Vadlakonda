@@ -36,7 +36,7 @@ Unordered list
 
 
 ***
-# Table of four cities #
+# Tables #
 
 <p>
 
@@ -55,4 +55,21 @@ The below table consists of 4 beautiful cities to visit in India.These cities ar
 # Quotes #
 >"All we have to decide is what to do with the time that is given us" by *J.R.R.Tolkein*.<br>
 >"It matters not what someone is born,but what they grow to be" by *J.K.Rowling*.
+
+***
+# Code Fencing #
+
+### Stack overflow link
+>Responsive Meta Tag
+(https://stackoverflow.com/questions/54284854/responsive-web-design-by-meta-tag)
+
+### Code snippet
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+### Quick link for snippet source
+(https://css-tricks.com/snippets/html/responsive-meta-tag/)
+
+
+
+
 
