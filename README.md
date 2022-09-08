@@ -51,3 +51,8 @@ The below table consists of 4 beautiful cities to visit in India.These cities ar
 | Tamilnadu       | Madurai                   | 3 days        |
 | Hyderabad       | Charminar                 | 2 days        |
 
+***
+# Quotes #
+>"All we have to decide is what to do with the time that is given us" by *J.R.R.Tolkein*
+>"It matters not what someone is born,but what they grow to be" by *J.K.Rowling*
+
